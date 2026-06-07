@@ -33,7 +33,8 @@ neglected.
 <img width="472" height="1063" alt="WhatsApp Image 2026-06-07 at 1 14 32 PM" src="https://github.com/user-attachments/assets/5fceb915-486a-445f-a9b3-288b14b5acbe" />
 
 # OUTPUT:
-<img width="472" height="1063" alt="WhatsApp Image 2026-06-07 at 1 14 32 PM" src="https://github.com/user-attachments/assets/d165db94-01c6-4a7e-b3c0-91d2ec36a6fc" />
+<img width="1206" height="475" alt="image" src="https://github.com/user-attachments/assets/f6d1247c-2d09-405d-8640-fa99453762a5" />
+
 
 # RESULT: 
 Thus short circuit analysis by line to ground fault is performed in etap software and the output is verified
